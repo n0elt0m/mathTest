@@ -1,5 +1,9 @@
 package main
 
+func main() {
+	println("Running")
+}
+
 func Add(x, y int) int {
 	return x + y
 }
