@@ -39,6 +39,7 @@ func TestSubtract(t *testing.T) {
 	}
 }
 
+// test
 func TestMultiply(t *testing.T) {
 	mulData := []MathData{
 		{1, 2, 2},
